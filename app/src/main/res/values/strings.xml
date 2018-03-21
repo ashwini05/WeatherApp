@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="google_maps_key">AIzaSyCH11rQk-0_cladtxnNTdJSDYslEbuTJfo</string>
+
+    <string name="max">Max</string>
+    <string name="min">Min</string>
+    <string name="sunshine">Sunshine</string>
+    <string name="rainfall">Rainfall</string>
+    <string name="map">Map</string>
+    <string name="weather">Weather</string>
+    <string name="no_internet_message">You don\'t seem to have an active internet connection</string>
+    <string name="downloading_data_message">Downloading data, Please wait...</string>
+    <string name="regions">Regions</string>
+    <string name="region">Region</string>
+
+    <string-array name="uk_urls">
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmax/date/UK.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmin/date/UK.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Sunshine/date/UK.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/UK.txt</item>
+    </string-array>
+
+    <string-array name="england_urls">
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmax/date/England.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmin/date/England.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Sunshine/date/England.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/England.txt</item>
+    </string-array>
+
+    <string-array name="wales_urls">
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmax/date/Wales.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmin/date/Wales.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Sunshine/date/Wales.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/Wales.txt</item>
+    </string-array>
+
+    <string-array name="scotland_urls">
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmax/date/Scotland.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmin/date/Scotland.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Sunshine/date/Scotland.txt</item>
+        <item>https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/Scotland.txt</item>
+    </string-array>
+
+    <string-array name="regions">
+        <item>UK</item>
+        <item>England</item>
+        <item>Wales</item>
+        <item>Scotland</item>
+    </string-array>
+</resources>
